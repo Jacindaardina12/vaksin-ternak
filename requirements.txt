@@ -9,3 +9,4 @@ cryptography
 matplotlib
 seaborn
 pymysql
+plotly
