@@ -1,5 +1,6 @@
 streamlit
 pandas
+numpy
 sqlalchemy
 mysql-connector-python
 python-dotenv
@@ -7,3 +8,4 @@ altair
 cryptography
 matplotlib
 seaborn
+pymysql
