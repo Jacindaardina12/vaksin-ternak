@@ -9,4 +9,3 @@ cryptography
 matplotlib
 seaborn
 pymysql
-MySQLdb
