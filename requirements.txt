@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+mysql-connector-python
+python-dotenv
+altair
+cryptography
+matplotlib
+seaborn

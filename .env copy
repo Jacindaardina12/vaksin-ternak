@@ -1,0 +1,4 @@
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=72741516
+DB_NAME=vaksin_ternak
