@@ -9,7 +9,7 @@ DB_PORT = "27684"
 DB_NAME = "railway"
 
 engine = create_engine(
-    f"mysql://root:cCoiaAEpiqVgAaqcAyjdxORwIDyKWGZw@tramway.proxy.rlwy.net:27684/railway",
+    f"mysql+pymysql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}",
     pool_pre_ping=True
 )
 
